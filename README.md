@@ -82,9 +82,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🧑‍💻 Authors 🧑‍💻
 
-- Ishan Pardeshi - [LinkedIn]([https://www.linkedin.com/in/ishan-pardeshi-169308272/?profileId=ACoAAEKb-uEB5ABOUx1vbxhn29V4hUXFzA5d7HY]())
-- Surabhi Tilekar - [LinkedIn]([https://www.linkedin.com/in/teammate1-linkedin/](https://www.linkedin.com/in/surabhi-tilekar-87b437284/))
-- Madhur Chavan - [LinkedIn]([https://www.linkedin.com/in/teammate2-linkedin/](https://www.linkedin.com/in/madhur-chavan-97b014214/))
+- Ishan Pardeshi - [LinkedIn](https://www.linkedin.com/in/ishan-pardeshi-169308272/)
+- Surabhi Tilekar - [LinkedIn](https://www.linkedin.com/in/surabhi-tilekar-87b437284/)
+- Madhur Chavan - [LinkedIn](https://www.linkedin.com/in/madhur-chavan-97b014214/)
 - Aditya Konde - 
 
 ## 📧 Contact 📧
