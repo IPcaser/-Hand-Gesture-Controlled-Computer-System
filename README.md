@@ -38,7 +38,7 @@ Follow these instructions to set up and run the project on your local machine.
 1. **Clone the Repository**:
     ```sh
     git clone https://github.com/IPcaser/-Hand-Gesture-Controlled-Computer-System.git
-    cd hand-gesture-system
+    cd -Hand-Gesture-Controlled-Computer-System
     ```
 
 2. **Install Required Libraries**:
@@ -50,7 +50,7 @@ Follow these instructions to set up and run the project on your local machine.
 
 1. **Navigate to the Project Directory**:
     ```sh
-    cd hand-gesture-system
+    cd -Hand-Gesture-Controlled-Computer-System
     ```
 
 2. **Run the Main Script**:
@@ -82,7 +82,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🧑‍💻 Authors 🧑‍💻
 
-- Ishan Pardeshi - [LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/ishan-pardeshi-169308272/?profileId=ACoAAEKb-uEB5ABOUx1vbxhn29V4hUXFzA5d7HY))
+- Ishan Pardeshi - [LinkedIn]([https://www.linkedin.com/in/ishan-pardeshi-169308272/?profileId=ACoAAEKb-uEB5ABOUx1vbxhn29V4hUXFzA5d7HY]())
 - Surabhi Tilekar - [LinkedIn]([https://www.linkedin.com/in/teammate1-linkedin/](https://www.linkedin.com/in/surabhi-tilekar-87b437284/))
 - Madhur Chavan - [LinkedIn]([https://www.linkedin.com/in/teammate2-linkedin/](https://www.linkedin.com/in/madhur-chavan-97b014214/))
 - Aditya Konde - 
