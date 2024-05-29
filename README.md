@@ -15,9 +15,11 @@ Our system allows users to control various applications and perform tasks using 
 ## 📷 Screenshots 📷
 
 ![Application Opening Gesture](https://media.licdn.com/dms/image/D4D2DAQH0EJE-xga7pA/profile-treasury-image-shrink_800_800/0/1694370894805?e=1717610400&v=beta&t=XSid5K3jkUmwXn4c4W7PL_z1Pkk3shvlO4EznBDSiBM)
+
 *Caption: Gesture to open MS Excel*
 
 ![Mouse Control Gesture](https://media.licdn.com/dms/image/D4D2DAQFBbAmfWyxx5g/profile-treasury-image-shrink_800_800/0/1694371021062?e=1717610400&v=beta&t=231UfeJDiQVxufNguJ4cVQpp7wAOfa6RXCUuWRf_Bjc)
+
 *Caption: Gesture to control the mouse*
 
 ## 🚀 Getting Started 🚀
